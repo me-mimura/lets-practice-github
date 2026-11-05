@@ -1,1 +1,3 @@
 hello world
+git config --global user.email 51mey.0113@gmail.com
+git config --global user.name "mei mimura"
